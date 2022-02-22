@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T10:10:18.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lBuPqDbrrbjMVDUoyRvl" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T10:12:16.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="epbj5fmbc4CCxWOzDqiK" version="16.6.2" type="github" pages="2">
   <diagram id="mTzRGNqvNugGUlduslYU" name="第 1 页">
     <mxGraphModel dx="1084" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,6 +165,55 @@
         </mxCell>
         <mxCell id="yljVwJh1RdWCPy7sHgHL-69" value="&lt;div&gt;&lt;b&gt;{&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &quot;zy-reactions&quot;: [&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; {&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;dependencies&quot;: [&quot;source&quot;],&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;when&quot;: &quot;{{$deps[0] == &#39;123&#39;}}&quot;,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;fulfill&quot;: {&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;state&quot;: {&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;visible&quot;: true&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;otherwise&quot;: {&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;state&quot;: {&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;visible&quot;: false&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; }&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; ]&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;}&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="1070" y="717.5" width="210" height="265" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="第 2 页" id="vmeg3w2PkTzOu8iQpymt">
+    <mxGraphModel dx="1084" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-0" />
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-1" parent="jsD7i38tdZWUHHp5nwPY-0" />
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;fontColor=#FFFFFF;" edge="1" parent="jsD7i38tdZWUHHp5nwPY-1" source="jsD7i38tdZWUHHp5nwPY-13" target="jsD7i38tdZWUHHp5nwPY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-13" value="&lt;h3 id=&quot;领域模型&quot; style=&quot;box-sizing: border-box; margin: 42px 0px 18px; font-weight: 500; line-height: 1.40625; font-size: 30px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 57, 18); font-size: 30px;&quot;&gt;领域模型&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=30;" vertex="1" parent="jsD7i38tdZWUHHp5nwPY-1">
+          <mxGeometry x="582.5" y="-500" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FFFFFF;" edge="1" parent="jsD7i38tdZWUHHp5nwPY-1" source="jsD7i38tdZWUHHp5nwPY-13" target="jsD7i38tdZWUHHp5nwPY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-15" value="&lt;span style=&quot;color: rgb(69, 77, 100); font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;前面问题中有提到表单的联动是非常复杂的，包含了字段间的各种关系，我们想象一下，大多数表单联动，基本上都是基于某些字段的值引发的联动，但是，实际业务需求可能会比较恶心，不仅要基于某些字段值引发联动，还会基于其他副作用值引发联动，比如应用状态，服务端数据状态，页面 URL，某个字段 UI 组件内部数据，当前字段自身的其他数据状态，某些特殊异步事件等等。用张图来描述：&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;labelBackgroundColor=#FFD4E4;" vertex="1" parent="jsD7i38tdZWUHHp5nwPY-1">
+          <mxGeometry x="230" y="-350" width="870" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-16" value="" style="group" vertex="1" connectable="0" parent="jsD7i38tdZWUHHp5nwPY-1">
+          <mxGeometry x="245.5" y="-160" width="787" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-17" value="Field" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=30;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="jsD7i38tdZWUHHp5nwPY-16">
+          <mxGeometry x="320" y="50" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-18" value="Effect Data" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=30;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="jsD7i38tdZWUHHp5nwPY-16">
+          <mxGeometry x="617" y="50" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;fontColor=#000000;" edge="1" parent="jsD7i38tdZWUHHp5nwPY-16" source="jsD7i38tdZWUHHp5nwPY-17" target="jsD7i38tdZWUHHp5nwPY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;fontColor=#000000;" edge="1" parent="jsD7i38tdZWUHHp5nwPY-16" source="jsD7i38tdZWUHHp5nwPY-21" target="jsD7i38tdZWUHHp5nwPY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-21" value="Field" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=30;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="jsD7i38tdZWUHHp5nwPY-16">
+          <mxGeometry y="50" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jsD7i38tdZWUHHp5nwPY-22" value="" style="endArrow=classic;html=1;rounded=1;fontSize=30;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="jsD7i38tdZWUHHp5nwPY-16" source="jsD7i38tdZWUHHp5nwPY-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="40" as="sourcePoint" />
+            <mxPoint x="320" y="135" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405" />
+              <mxPoint x="280" />
+              <mxPoint x="280" y="135" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
