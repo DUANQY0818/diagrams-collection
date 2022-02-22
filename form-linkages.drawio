@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T08:57:09.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.2" etag="xqYHwTCVlLIm0Nd_RBDe" type="github"><diagram id="mTzRGNqvNugGUlduslYU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-22T09:15:48.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xvVvzt4mN26o51v7N9dG" version="16.6.2" type="github">
+  <diagram id="mTzRGNqvNugGUlduslYU" name="第 1 页">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yljVwJh1RdWCPy7sHgHL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yljVwJh1RdWCPy7sHgHL-1" target="yljVwJh1RdWCPy7sHgHL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yljVwJh1RdWCPy7sHgHL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yljVwJh1RdWCPy7sHgHL-1" target="yljVwJh1RdWCPy7sHgHL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yljVwJh1RdWCPy7sHgHL-1" value="表单联动逻辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yljVwJh1RdWCPy7sHgHL-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="90" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="yljVwJh1RdWCPy7sHgHL-2" value="一、获取所有的表单内组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yljVwJh1RdWCPy7sHgHL-6">
+          <mxGeometry y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yljVwJh1RdWCPy7sHgHL-4" value="通过drawingList获取所有的组件，组件formId唯一" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yljVwJh1RdWCPy7sHgHL-6">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yljVwJh1RdWCPy7sHgHL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yljVwJh1RdWCPy7sHgHL-6" source="yljVwJh1RdWCPy7sHgHL-2" target="yljVwJh1RdWCPy7sHgHL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yljVwJh1RdWCPy7sHgHL-7" value="二、选择受控者，需要支持一对一、一对多" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
